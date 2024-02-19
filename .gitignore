@@ -79,3 +79,6 @@ LearnBallGame/Library/PackageCache/*
 LearnBallGame/Library/Artifacts/*
 LearnBallGame/Builds/*
 LearnBallGame/Temp/*
+LearnBallGame/WebGL Builds/*
+LearnBallGame/Library/BurstCache/*
+LearnBallGame/Library/Bee/*
