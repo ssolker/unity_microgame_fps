@@ -77,3 +77,5 @@ LearnBallGame/Logs/*
 LearnBallGame/Library/ShaderCache/*
 LearnBallGame/Library/PackageCache/*
 LearnBallGame/Library/Artifacts/*
+LearnBallGame/Builds/*
+LearnBallGame/Temp/*
